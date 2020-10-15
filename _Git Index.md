@@ -41,6 +41,20 @@ Git doesn't need to be complicated. Everything is a variation on this simple wor
 
 This is what we will focus on during this workshop. Every other *advanced* git workflow still contains these steps, with a few others thrown in just to confuse us.
 
+### Some things to know
+This workshop will be a lot easier if you have some experience with the command line. I'll be typing almost everything in the terminal so if you don't know the command line well you will be fine. 
+
+Programming isn't a prerequisite for this workshop, however I will be using some examples from R or JavaScript or Python. The contents of these files doesn't matter. All we car about is tracking the changes in the contents of these files. 
+
+Markdown is a simple markup language that I will use extensively throughout the workshop. Markdown is a tool widely adopted when working with git. These notes are written in Markdown.
+
+A quick list of the things we will use in this course:
+- command line (bash, zsh, git bash on windows)
+- GitHub - see [[A quick tour of GitHub]]
+- Visual Studio Code
+- a Text editor
+- 
+
 ## A little about me
 My name is Mitch Gritts and I work as a developer/biologist at NDOW. I use git nearly everyday but often have to Google anything beyond the basic workflow
 

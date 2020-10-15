@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "82cede2154e7ddac",
+        "id": "8316b3a9304617c5",
         "type": "leaf",
         "active": true,
         "state": {
@@ -77,6 +77,7 @@
   },
   "lastOpenFiles": [
     "_Git Index.md",
+    "first time git configuration.md",
     "cloning a repo.md",
     "Getting started with git.md",
     "Git resources.md",
