@@ -1,3 +1,9 @@
 - [SyntaxFM](https://syntax.fm/show/286/git-fundamentals)
-- [GitPro](https://git-scm.com/book/en/v2)
+- [Git Pro](https://git-scm.com/book/en/v2)
 	- [Videos from git's website](https://git-scm.com/videos)
+- [dev.to](https://dev.to)
+	- https://dev.to/maxpou/git-cheat-sheet-advanced-3a17
+	- https://dev.to/t/git
+- [StackOverflow](https://stackoverflow.com)
+	- Use `[git]` to seach just git questions
+- [GitHub Learning Lab](https://lab.github.com)

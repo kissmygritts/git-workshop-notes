@@ -24,3 +24,33 @@ A quick outline of the topics we will cover. Each section should link to a note 
 4. git branch & branching workflows
 5. Merge conflicts
 6. troubleshooting git
+
+## A brief intro to git
+Git is a version control system (VCS) for tracking changes in any set of files. It is used to help coordinate work between programmers/designers/developers/etc. Everyone in a team can work on the same code at the same time.
+
+As an example you and a lab partner are working on a programming assignment. Before git the workflow might look like using a shared Dropbox folder, or emailing files back and forth. But what happens when you both edit the same thing and try and save at the same time? Your guess is as good as mine. With git you can create a remote repository and each contribute code independently to same repo. Each of you have an exact copy of the code as it exists in the remote repo. When conflicts do arise there are tools to help resolve them.
+
+![[git.png]]
+
+Git doesn't need to be complicated. Everything is a variation on this simple workflow:
+1. initialize a repo
+2. add code, make changes 
+3. stage changes for commit - [[git add]]
+4. commit changes - [[git commit]]
+5. push to remote repo
+
+This is what we will focus on during this workshop. Every other *advanced* git workflow still contains these steps, with a few others thrown in just to confuse us.
+
+## A little about me
+My name is Mitch Gritts and I work as a developer/biologist at NDOW. I use git nearly everyday but often have to Google anything beyond the basic workflow
+
+## TAs
+
+## Participants
+
+## These notes
+These notes will live on GitHub and act as a living version of this course. As I find additional content or resources I'll add them to the notes and push the changes to GitHub.
+
+I'm using an application called Obsidian to write and display these notes throughout the workshop. It works on any platform and allow you to have your own local copy of these notes. 
+
+We'll talk about [[cloning a repo]] later (specifically cloniing these notes). But if you can't wait the URL for this repo is `https://github.com/kissmygritts/git-workshop-notes.git`
