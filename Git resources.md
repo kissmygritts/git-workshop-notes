@@ -1,0 +1,3 @@
+- [SyntaxFM](https://syntax.fm/show/286/git-fundamentals)
+- [GitPro](https://git-scm.com/book/en/v2)
+	- [Videos from git's website](https://git-scm.com/videos)

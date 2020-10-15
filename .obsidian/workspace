@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "2c1d6cd4683734c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "82cede2154e7ddac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Git Index.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "41797e5f5524b2d5",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cloning a repo.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52b9bf47ebc6ea79",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bca985725c4ed95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9a3888b45bafe73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "799361c7a145afce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fefa669e2f10f321",
+    "type": "split",
+    "children": [
+      {
+        "id": "91fcb28f29bd3609",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fb3a187eac71e3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cloning a repo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "cloning a repo.md",
+    "_Git Index.md",
+    "Getting started with git.md",
+    "0 Git Index.md"
+  ]
+}
