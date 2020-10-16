@@ -22,7 +22,7 @@ A quick outline of the topics we will cover. Each section should link to a note 
 	3. [[git commit]]
 	4. git log
 	5. git push
-	6. git clone
+	6. [[git clone]]
 3. Forking
 4. git branch & branching workflows
 5. Merge conflicts

@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "cloning a repo.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -78,14 +78,14 @@
   },
   "lastOpenFiles": [
     "cloning a repo.md",
+    "git clone.md",
     "_Git Index.md",
+    "git status.md",
+    "git tooling.md",
     "Get help with git.md",
     "Getting started with git.md",
     "first time git configuration.md",
     "attendance assignment.md",
-    "Git resources.md",
-    "A quick tour of GitHub.md",
-    "Installing git macOs.md",
-    "git tooling.md"
+    "Git resources.md"
   ]
 }
