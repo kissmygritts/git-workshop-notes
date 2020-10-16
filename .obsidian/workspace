@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8316b3a9304617c5",
+        "id": "cccc72e6fb104529",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Git Index.md",
-            "mode": "source"
+            "file": "cloning a repo.md",
+            "mode": "preview"
           }
         }
       }
@@ -48,7 +48,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fefa669e2f10f321",
@@ -64,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Git Index.md"
+                "file": "cloning a repo.md"
               }
             }
           }
@@ -76,11 +77,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_Git Index.md",
-    "first time git configuration.md",
     "cloning a repo.md",
+    "_Git Index.md",
+    "Get help with git.md",
     "Getting started with git.md",
+    "first time git configuration.md",
+    "attendance assignment.md",
     "Git resources.md",
-    "0 Git Index.md"
+    "A quick tour of GitHub.md",
+    "Installing git macOs.md",
+    "git tooling.md"
   ]
 }

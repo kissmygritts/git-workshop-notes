@@ -1,3 +1,3 @@
 Check if you have git installed with `git --version`. Hopefully you have a version greater than 2.2. All mac computers come with git installed. The versions will change based on the version of you operating system. 
 
-If you don't have git there are a few options to install. I think the easiest is to use [homebrew](). I'm not going to explain how to use homebrew here, follow their documentation. Once you have homebrew working install git with `brew install git`. Then `git --version` to see if it is working. You may need to restart your terminal to get it working correctly.
+If you don't have git there are a few options to install. I think the easiest is to use [homebrew](https://brew.sh). I'm not going to explain how to use homebrew here, follow their documentation. Once you have homebrew working install git with `brew install git`. Then `git --version` to see if it is working. You may need to restart your terminal to get it working correctly.

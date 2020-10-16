@@ -2,7 +2,7 @@ Now, let's cnfigure a few global parameters. Find comprehensive review of [first
 
 Git will use information about you, your machine, or your aliases within every commit. We'll start with your username and email.
 
-```
+```bash
 git config --global user.name "your name"
 git config --global user.email "your_email@email.com"
 ```
@@ -14,8 +14,10 @@ I've always used the same username and email here as I do for my GitHub credenti
 
 By default git uses `master` as the name of the default branch. In the interest of diversity, equity, and inclusion we can rename this branch to `main`. Really, we can name it whatever we want, but let's stick with conventions. 
 
-```
+```bash
 git config --global init.defaultBranch main
 ```
 
 I am currently working with git version 2.27 so I cannot run this command for you. For those of you that are also on older versions of git like me there is a more manual work around. I'll show you when we get to that part.
+
+See here for additional methods to rename your default branch: https://www.hanselman.com/blog/easily-rename-your-git-default-branch-from-master-to-main

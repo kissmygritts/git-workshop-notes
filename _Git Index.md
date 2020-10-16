@@ -1,14 +1,17 @@
+# Grad 778: Elements of Research Computing
+## Module: Version Control with Git & GitHub
+
 ## Outline
 A quick outline of the topics we will cover. Each section should link to a note with more information.
 
 0. [[Getting started with git]]
-	2. [[Installing git macOs]]
-	3. [[Installing git on Windows]]
-	4. [[first time git configuration]]
-	5. [[git tooling]]
-	6. [[A quick tour of GitHub]]
-	7. [[Git resources]]
-	8. attendance assignment
+	1. [[Installing git macOs]]
+	2. [[Installing git on Windows]]
+	3. [[first time git configuration]]
+	4. [[git tooling]]
+	5. [[A quick tour of GitHub]]
+	6. [[Git resources]]
+	7. [[attendance assignment]]
 1. Git Basics
 	1. [[Getting started with git]]
 	2. [[Get help with git]]
@@ -61,6 +64,7 @@ My name is Mitch Gritts and I work as a developer/biologist at NDOW. I use git n
 ## TAs
 
 ## Participants
+- Mitchell Gritts
 
 ## These notes
 These notes will live on GitHub and act as a living version of this course. As I find additional content or resources I'll add them to the notes and push the changes to GitHub.

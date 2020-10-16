@@ -1,15 +1,36 @@
-git can be a scary and confusing technology. It doesn't have to be! The basic workflow is simple:
+A quick overview of how to use git. You don't need to following along with the video if you don't want to. I'll provide the commands I run below so you can run them at your own pace.
 
-- create a git repository
-- write code
-- add and commit code
-- push to a remote repository
+Remember the workflow looks like this:
+1. Initialize a repo
+2. create files, modify files
+3. stage files, changes for commit
+4. commit changes
+5. push to GitHub
 
-These are unfamiliar concepts right now. By the end of the course I hope you'll see the benefits of git and remote version control systems (GitHub, but there are others).
+```bash
+# 1. initialize repo
+git init
 
-## Installing git
-This might be the most difficult part of getting started with git. Every system is a little different. If you are using a mac it likely came with your system. If you are using windows you'll need to install it.
+# 3. stage files for commit
+git add -A
 
-- macOS: [[Installing git macOs]]
-- Windows: [[Installing git on Windows]]
-- Linux: I trust you know what you are doing!
+# 4. commit changes
+git commit -m "Commit message"
+```
+
+Since we are starting with a new repo we will have a few additional steps before pushing to GitHub. The first step is to create a repo on GitHub.
+
+Then do the following (GitHub will prompt you to do this)
+
+```bash
+# add a remote branch
+git remote add origin https://github.com/kissmygritts/[repo-name].git
+
+# change the name of our default branch
+git branch -M main
+
+# push to the remote branch
+git push -u origin main
+```
+
+And that is it! I'll probably walk through this a couple of times.
