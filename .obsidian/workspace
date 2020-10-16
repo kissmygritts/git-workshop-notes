@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "cccc72e6fb104529",
+        "id": "1b36356da90093e6",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cloning a repo.md",
-            "mode": "source"
+            "file": "How to complete the attendance assignment.md",
+            "mode": "preview"
           }
         }
       }
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cloning a repo.md"
+                "file": "How to complete the attendance assignment.md"
               }
             }
           }
@@ -77,15 +77,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "cloning a repo.md",
-    "git clone.md",
+    "How to complete the attendance assignment.md",
     "_Git Index.md",
-    "git status.md",
-    "git tooling.md",
-    "Get help with git.md",
-    "Getting started with git.md",
-    "first time git configuration.md",
     "attendance assignment.md",
-    "Git resources.md"
+    "git commit.md",
+    "gitignore.md",
+    "git log.md",
+    "git add.md",
+    "git status.md",
+    "Untitled.md",
+    "git clone.md"
   ]
 }

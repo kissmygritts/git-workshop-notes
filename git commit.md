@@ -2,9 +2,6 @@
 
 After the commit is created you'll see which branch you committed, the SHA-1 checksum (or git hash) assigned to this commit, how many files were changed, and the stats about what was added or removed.
 
-## Remove a file
-`git rm` will remove files from the working tree/staging area and your directory. If you wan't to untrack files only use `git rm --cached filename`
-
 ## Viewing the commit history
 Viewing the commit history is a very useful tool. We will revisit this several times throughout the workshop.
 
@@ -25,3 +22,21 @@ git log --pretty=format:"%h %s" --graph
 ```
 
 There are many options that can be used with `git log` many of the more interesting ones come into play once you've been using git for awhile.
+
+## Walk through the commit history
+
+This is a risky operation. Make sure you've pushed to GitHub just in case you make a mistake!
+
+```bash
+# move back to a specific commit
+git checkout <commit hash>
+
+# view logs
+git log --oneline
+git log --all --oneline
+
+git status
+
+# go back to the top
+git checkout master
+```

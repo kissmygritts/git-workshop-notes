@@ -16,14 +16,16 @@ A quick outline of the topics we will cover. Each section should link to a note 
 	1. [[Getting started with git]]
 	2. [[Get help with git]]
 	3. [[cloning a repo]]
-2. More details about git commands
+2. More details about commands
 	1. [[git status]]
 	2. [[git add]]
-	3. [[git commit]]
-	4. git log
-	5. git push
-	6. [[git clone]]
+	3. [[gitignore]]
+	4. [[git commit]]
+	5. [[git log]]
+	6. git push
+	7. [[git clone]]
 3. Forking
+	1. [[How to complete the attendance assignment]]
 4. git branch & branching workflows
 5. Merge conflicts
 6. troubleshooting git
@@ -64,6 +66,7 @@ My name is Mitch Gritts and I work as a developer/biologist at NDOW. I use git n
 ## TAs
 
 ## Participants
+
 - Mitchell Gritts
 
 ## These notes

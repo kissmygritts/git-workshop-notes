@@ -6,9 +6,29 @@
 
 `git add` will also add any modified files to the staging area
 
+## A few ways to use `git add`
+```bash
+# add all files to the staging area
+git add .
+git add -A
+
+# use the patch option, use the y/n keys to interactively add files
+git add -p
+git add --patch
+
+# by filename with git add [filename]
+git add script.R
+git add scripts/*.r
+git add scripts
+```
+
 ## Removing a file
-Sometimes the simplest method to remove a file from your working tree is to just delete it, add it to your `.gitignore`, then recreate it. This isn't always ideal, so the following command will untrack it. Just remember to add it to your `.gitignore`.
+Sometimes you need to remove a file from your repo.
+
+`git rm` will remove files. This is essentially the same as running the `rm` command. It permanently deletes it from you directory. The `---cached` option will only remove it from your 
 
 ```bash
+git rm
+
 git rm --cached secrets.md
 ```
