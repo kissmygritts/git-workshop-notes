@@ -12,6 +12,7 @@ A quick outline of the topics we will cover. Each section should link to a note 
 	5. [[A quick tour of GitHub]]
 	6. [[Git resources]]
 	7. [[attendance assignment]]
+	8. [[Workshop notes]]
 1. Git Basics
 	1. [[Getting started with git]]
 	2. [[Get help with git]]
@@ -70,8 +71,5 @@ My name is Mitch Gritts and I work as a developer/biologist at NDOW. I use git n
 - Mitchell Gritts
 
 ## These notes
-These notes will live on GitHub and act as a living version of this course. As I find additional content or resources I'll add them to the notes and push the changes to GitHub.
+[[Workshop notes]] for more information about these notes
 
-I'm using an application called Obsidian to write and display these notes throughout the workshop. It works on any platform and allow you to have your own local copy of these notes. 
-
-We'll talk about [[cloning a repo]] later (specifically cloniing these notes). But if you can't wait the URL for this repo is `https://github.com/kissmygritts/git-workshop-notes.git`
