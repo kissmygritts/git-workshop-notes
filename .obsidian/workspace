@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "992c1f857749a42c",
+        "id": "eb2995f30b257f0c",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git status.md",
+            "file": "How to complete the attendance assignment.md",
             "mode": "preview"
           }
         }
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git status.md"
+                "file": "How to complete the attendance assignment.md"
               }
             }
           }
@@ -77,15 +77,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "git status.md",
+    "How to complete the attendance assignment.md",
     "_Git Index.md",
-    "Getting started with git.md",
+    "Create a fork, clone, pull requests.md",
+    "git commit.md",
+    "Ignore files with gitignore.md",
+    "git add.md",
     "Git resources.md",
-    "A quick tour of GitHub.md",
-    "Workshop notes.md",
-    "git tooling.md",
-    "first time git configuration.md",
-    "Installing git macOs.md",
-    "How to complete the attendance assignment.md"
+    "git status.md",
+    "What is a repository.md",
+    "Create a new branch.md"
   ]
 }

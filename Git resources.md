@@ -1,4 +1,5 @@
-- [SyntaxFM](https://syntax.fm/show/286/git-fundamentals)
+- ⭐️ [git - the simple guide](https://rogerdudler.github.io/git-guide/) 
+- ⭐️ [SyntaxFM](https://syntax.fm/show/286/git-fundamentals)
 - [Git Pro](https://git-scm.com/book/en/v2)
 	- [Videos from git's website](https://git-scm.com/videos)
 - [dev.to](https://dev.to)
@@ -7,3 +8,6 @@
 - [StackOverflow](https://stackoverflow.com)
 	- Use `[git]` to seach just git questions
 - [GitHub Learning Lab](https://lab.github.com)
+- [GitHub Guides](https://guides.github.com)
+	- [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+

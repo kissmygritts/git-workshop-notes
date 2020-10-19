@@ -25,7 +25,7 @@ git add scripts
 ## Removing a file
 Sometimes you need to remove a file from your repo.
 
-`git rm` will remove files. This is essentially the same as running the `rm` command. It permanently deletes it from you directory. The `---cached` option will only remove it from your 
+`git rm` will remove files. This is essentially the same as running the `rm` command. It permanently deletes it from you directory. The `---cached` option will only remove it from your repo not from your directory.
 
 ```bash
 git rm

@@ -17,17 +17,17 @@ A quick outline of the topics we will cover. Each section should link to a note 
 	1. [[Getting started with git]]
 	2. [[Get help with git]]
 	3. [[cloning a repo]]
-2. More details about commands
-	1. [[git status]]
-	2. [[git add]]
-	3. [[gitignore]]
-	4. [[git commit]]
-	5. [[git log]]
-	6. git push
-	7. [[git clone]]
-3. Forking
-	1. [[How to complete the attendance assignment]]
+2. Working with and understanding git
+	1. [[What is a repository]]?
+	2. [[git status]]
+	3. [[git add]]
+	4. [[Ignore files with gitignore]]
+	5. [[git commit]]
+3. Collaborating with others
+	1. [[Create a fork, clone, pull requests]]
+	2. [[How to complete the attendance assignment]]
 4. git branch & branching workflows
+	1. [[Create a new branch]]
 5. Merge conflicts
 6. troubleshooting git
 
