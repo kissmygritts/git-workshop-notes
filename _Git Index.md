@@ -28,8 +28,8 @@ A quick outline of the topics we will cover. Each section should link to a note 
 	2. [[How to complete the attendance assignment]]
 4. git branch & branching workflows
 	1. [[Create a new branch]]
-5. Merge conflicts
-6. troubleshooting git
+	2. Merge conflicts
+5. troubleshooting git
 
 ## A brief intro to git
 Git is a version control system (VCS) for tracking changes in any set of files. It is used to help coordinate work between programmers/designers/developers/etc. Everyone in a team can work on the same code at the same time.

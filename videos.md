@@ -1,0 +1,22 @@
+- intro : record
+- [x] install on mac
+- install on windows : 
+- [x] first time config
+- [x] git tooling
+- [x] a quick tour of github
+- [x] git resources : 
+- attendance assignment : delete
+- workshop notes :
+- [x] 1.1 getting started :
+- [x] 1.2 getting help :
+- [x] 1.3 clone a repo :
+- [x] 2.1 what is a repo :
+- [x] 2.2 git  status
+- [x] 2.3 git add
+- [x] 2.4 git ignore
+- [x] 2.5 git commit
+	- cut : 21:00 maybe..
+- [x] 3.1 create a fork...
+- [x] 3.2 how to complete attendance assignment
+- [x] 4.1 branching : redo
+- [x] 5.1 merge conflicts : redo
