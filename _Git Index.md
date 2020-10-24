@@ -69,6 +69,7 @@ My name is Mitch Gritts and I work as a developer/biologist at NDOW. I use git n
 ## Participants
 
 - Mitch Gritts
+- Alexandra Scury
 
 ## These notes
 [[Workshop notes]] for more information about these notes
