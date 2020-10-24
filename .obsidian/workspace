@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4ab16ed6f76d2529",
+        "id": "8205dc18ab70412b",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Git Index.md",
+            "file": "git add.md",
             "mode": "preview"
           }
         }
@@ -48,8 +48,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fefa669e2f10f321",
@@ -65,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Git Index.md"
+                "file": "git add.md"
               }
             }
           }
@@ -77,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "git add.md",
     "_Git Index.md",
+    "How to complete the attendance assignment.md",
     "Workshop notes.md",
     "videos.md",
     "Installing git macOs.md",
     "Git resources.md",
     "Create a new branch.md",
     "Untitled.md",
-    "How to complete the attendance assignment.md",
-    "Create a fork, clone, pull requests.md",
-    "git commit.md"
+    "Create a fork, clone, pull requests.md"
   ]
 }
