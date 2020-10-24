@@ -62,13 +62,14 @@ A quick list of the things we will use in this course:
 - 
 
 ## A little about me
-My name is Mitch Gritts and I work as a developer/biologist at NDOW. I use git nearly everyday but often have to Google anything beyond the basic workflow
+My name is Mitch Gritts and I work as a developer/biologist at NDOW. I use git nearly everyday but often have to Google anything beyond the basic workflow.
 
 ## TAs
 
 ## Participants
 
 - Mitch Gritts
+- Alexis Tudor
 
 ## These notes
 [[Workshop notes]] for more information about these notes
