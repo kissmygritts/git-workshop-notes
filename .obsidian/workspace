@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Git Index.md",
+            "file": "What is a repository.md",
             "mode": "preview"
           }
         }
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Git Index.md"
+                "file": "What is a repository.md"
               }
             }
           }
@@ -77,15 +77,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "What is a repository.md",
     "_Git Index.md",
+    "git commit.md",
+    "git add.md",
     "Workshop notes.md",
     "videos.md",
     "Installing git macOs.md",
     "Git resources.md",
     "Create a new branch.md",
-    "Untitled.md",
-    "How to complete the attendance assignment.md",
-    "Create a fork, clone, pull requests.md",
-    "git commit.md"
+    "Untitled.md"
   ]
 }
