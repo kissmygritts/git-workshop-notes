@@ -68,7 +68,7 @@ My name is Mitch Gritts and I work as a developer/biologist at NDOW. I use git n
 
 ## Participants
 
-- Mitch Gritts
+- Uriel Cholula Rivera
 
 ## These notes
 [[Workshop notes]] for more information about these notes
