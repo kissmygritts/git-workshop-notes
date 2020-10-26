@@ -70,6 +70,8 @@ My name is Mitch Gritts and I work as a developer/biologist at NDOW. I use git n
 
 - Mitch Gritts
 
+- Laura Wade
+
 ## These notes
 [[Workshop notes]] for more information about these notes
 
