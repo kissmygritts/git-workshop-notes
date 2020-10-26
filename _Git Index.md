@@ -67,7 +67,7 @@ My name is Mitch Gritts and I work as a developer/biologist at NDOW. I use git n
 ## TAs
 
 ## Participants
-
+- Linh (Bella) Do
 - Mitch Gritts
 
 ## These notes
